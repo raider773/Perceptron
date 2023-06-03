@@ -1,1 +1,0 @@
-https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron#:~:text=Activation%20Function%3A%20The%20activation%20function,sigmoid%20function%2C%20and%20ReLU%20function.
